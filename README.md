@@ -1,2 +1,2 @@
 # NewRepo
-My first repository
+this is our first change from git
