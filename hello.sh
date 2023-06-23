@@ -1,3 +1,3 @@
 echo"\Hello World"
-Edit from feature B
-
+edit from feature B
+edit from feature C
